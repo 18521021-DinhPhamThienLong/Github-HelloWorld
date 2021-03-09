@@ -7,6 +7,5 @@ int main()
     int c;
     c = a + b; 
     cout << "Hello World " << c << endl;
-    cout << "Anh yeu em";
     return 0;
 }
